@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shouq Aljaser 👋
 
-<!--
-**shouq-stack/shouq-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Graduate
+🔐 Passionate about Security Operations, Incident Response, and Web Security
+💻 Developer of a live Password Strength & Security Web Application
+🚀 Focused on cybersecurity awareness, secure development, and practical technical solutions
 
-Here are some ideas to get you started:
+## Featured Project:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Password Strength & Security Web Application
+
+* Real-time password strength analysis
+* Secure password generation
+* Security awareness features
+* HTML, CSS, JavaScript
+
+
+## Technical Skills:
+
+* Cybersecurity
+* Incident Response
+* Threat Analysis
+* Vulnerability Assessment
+* HTML/CSS/JavaScript
+* Networking
+* Security Awareness
+
